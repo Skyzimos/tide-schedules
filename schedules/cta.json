@@ -1,0 +1,66 @@
+{
+    "name": "Cardinal Time / Core",
+    "periods": [
+        {
+            "period": "Late Start",
+            "start": "07:10",
+            "end": "07:50"
+        },
+        {
+            "period": "1",
+            "start": "08:00",
+            "end": "08:52"
+        },
+        {
+            "period": "2",
+            "start": "08:58",
+            "end": "09:50"
+        },
+        {
+            "period": "Advisement",
+            "start": "09:56",
+            "end": "10:26"
+        },
+        {
+            "period": "3",
+            "start": "10:32",
+            "end": "11:24"
+        },
+        {
+            "period": "4",
+            "start": "11:30",
+            "end": "13:12"
+        },
+        {
+            "period": "5",
+            "start": "13:18",
+            "end": "14:10"
+        }
+    ],
+    "lunches": [
+        {
+            "lunch": "1",
+            "leave_class": "11:45",
+            "leave_lunch": "12:11",
+            "back_to_class": "12:14"
+        },
+        {
+            "lunch": "2",
+            "leave_class": "12:10",
+            "leave_lunch": "12:36",
+            "back_to_class": "12:39"
+        },
+        {
+            "lunch": "3",
+            "leave_class": "12:35",
+            "leave_lunch": "13:01",
+            "back_to_class": "13:04"
+        },
+        {
+            "lunch": "4",
+            "leave_class": "12:58",
+            "leave_lunch": "13:27",
+            "back_to_class": "No Return"
+        }
+    ]
+}

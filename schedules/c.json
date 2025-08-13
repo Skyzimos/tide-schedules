@@ -1,0 +1,61 @@
+{
+    "name": "Core",
+    "periods": [
+        {
+            "period": "1",
+            "start": "07:40",
+            "end": "08:38"
+        },
+        {
+            "period": "2",
+            "start": "08:44",
+            "end": "09:42"
+        },
+        {
+            "period": "Assembly",
+            "start": "09:48",
+            "end": "10:34"
+        },
+        {
+            "period": "3",
+            "start": "10:40",
+            "end": "11:38"
+        },
+        {
+            "period": "4",
+            "start": "11:44",
+            "end": "13:17"
+        },
+        {
+            "period": "5",
+            "start": "13:23",
+            "end": "14:20"
+        }
+    ],
+    "lunches": [
+        {
+            "lunch": "1",
+            "leave_class": "11:44",
+            "leave_lunch": "12:09",
+            "back_to_class": "12:12"
+        },
+        {
+            "lunch": "2",
+            "leave_class": "12:05",
+            "leave_lunch": "12:30",
+            "back_to_class": "12:33"
+        },
+        {
+            "lunch": "3",
+            "leave_class": "12:27",
+            "leave_lunch": "12:52",
+            "back_to_class": "12:55"
+        },
+        {
+            "lunch": "4",
+            "leave_class": "12:50",
+            "leave_lunch": "13:17",
+            "back_to_class": "No Return"
+        }
+    ]
+}
